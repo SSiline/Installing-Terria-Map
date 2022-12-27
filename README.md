@@ -1,7 +1,7 @@
 # Installing-Terria-Map
 The instruction for installing Terria Map. The easiest way to get started with TerriaJS is to use TerriaMap. TerriaMap is a full-featured application built on TerriaJS, ready to be customized with your own branding and catalog. It is also a great starting point for more in-depth customization.
 
-##Prerequisites
+## Prerequisites
 Must Install these soft, if not yet
 
 - The Bash command shell. On macOS or Linux you almost certainly already have this. On Windows, you can easily get it by installing Git for Windows. In the instructions below, we assume you're using a Bash command prompt.
@@ -27,7 +27,7 @@ Open at http://localhost:3001
 
 
 # Language
-##adding language: config.json
+## adding language: config.json
 "languageConfiguration": {
       "enabled": true,
       "debug": false,
@@ -39,7 +39,7 @@ Open at http://localhost:3001
       "fallbackLanguage": "en"
 ## Update langauge 
 D:\Projects\webmap\TerriaMap\wwwroot\build\TerriaJS\languages\km
-language.json can be downloaded athttps://hosted.weblate.org/projects/terriajs/terriajsnext/
+language.json can be downloaded at https://hosted.weblate.org/projects/terriajs/terriajsnext/
 ![image](https://user-images.githubusercontent.com/118343414/209629897-5a2e1cd9-0b5a-48db-a1a4-634d92de4646.png)
 
 
