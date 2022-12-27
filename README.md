@@ -24,3 +24,23 @@ npm install -g yarn
 yarn install && yarn gulp && yarn start
 
 Open at http://localhost:3001
+
+
+# Language
+##adding language: config.json
+"languageConfiguration": {
+      "enabled": true,
+      "debug": false,
+      "languages": {
+        "en": "English",
+        "fr": "Français",
+        "km": "Khmer"
+      },
+      "fallbackLanguage": "en"
+## Update langauge 
+D:\Projects\webmap\TerriaMap\wwwroot\build\TerriaJS\languages\km
+language.json can be downloaded athttps://hosted.weblate.org/projects/terriajs/terriajsnext/
+![image](https://user-images.githubusercontent.com/118343414/209629897-5a2e1cd9-0b5a-48db-a1a4-634d92de4646.png)
+
+
+ 
