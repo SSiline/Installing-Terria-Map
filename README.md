@@ -103,7 +103,7 @@ edit file wroot/init/simple.json
    "name": "Bing Maps Aerial With Roads",
   "type": "bing-maps",
   "mapStyle": "Road",
-  "key":"AhvxiItVv2SppHXDx5pVKNUwfYHJwQxTnZeNXv0L7lWaY7E9AQOyPzqAHUM2vPIh",
+  "key":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
   "opacity": 1.0
   },
   
