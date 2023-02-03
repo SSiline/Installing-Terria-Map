@@ -76,7 +76,7 @@ edit file wroot/init/simple.json
        "name": "Bing Maps Aerial",
       "type": "bing-maps",
       "mapStyle": "Aerial",
-      "key":"AnBGbR4bEjAP7vgrY6e0emBLwGYxynzceO4l_7a3ptE_B6SoLJro6PFIE-PXjsOQ",
+      "key":"xx",
       "opacity": 1.0
       },
   
@@ -89,7 +89,7 @@ edit file wroot/init/simple.json
      "name": "Bing Maps Aerial With Labels",
     "type": "bing-maps",
     "mapStyle": "AerialWithLabels",
-    "key":"AhvxiItVv2SppHXDx5pVKNUwfYHJwQxTnZeNXv0L7lWaY7E9AQOyPzqAHUM2vPIh",
+    "key":"xxx",
     "opacity": 1.0
     },
     
